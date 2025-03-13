@@ -23,3 +23,7 @@
 ## GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=fernandocruz&theme=onestar)
+
+## Efeito de Linhas Brilhantes
+
+![Linhas Brilhantes](https://media.giphy.com/media/3o6gE5jS0p9F0OZZji/giphy.gif)
